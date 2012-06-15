@@ -16,7 +16,7 @@ Open up Terminal:
 
 `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
 
-`git clone git@github.com:fitzagard/li3_sublime2.git`
+`git clone git@github.com:fitzagard/li3_sublime.git`
 
 For Windows:
 
