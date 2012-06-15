@@ -1,0 +1,9 @@
+<snippet>
+ 	<content><![CDATA[<?=\$this->form->create(\$${1:object}$2);?>
+	$0
+<?=\$this->form->end(); ?>]]>
+	</content>
+	<tabTrigger>form</tabTrigger>
+	<description>Li3 Form Block</description>
+</snippet>
+

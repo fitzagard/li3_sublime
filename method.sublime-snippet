@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[public $1function ${2:method}(\$${3:params}, array \$options = array()) {
+	$0
+}]]>
+	</content>
+	<tabTrigger>func</tabTrigger>
+	<description>Method (func)</description>
+</snippet>

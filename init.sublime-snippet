@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[public static function __init() {
+	$0
+}]]>
+	</content>
+	<tabTrigger>init</tabTrigger>
+	<description>Li3 Static Initializer</description>
+</snippet>
