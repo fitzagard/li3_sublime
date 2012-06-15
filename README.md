@@ -1,4 +1,4 @@
-A [Sublime](http://www.sublimetext.com/) Package for [Lithium](http://lithify.me)
+A [Sublime 2](http://www.sublimetext.com/) Package for [Lithium](http://lithify.me)
 
 Here is a simple package of useful code snippets to help enhance your RAD. So far, the snippets are organized into three groups; form, html and general snippets.
 
