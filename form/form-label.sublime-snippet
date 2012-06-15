@@ -1,6 +1,5 @@
 <snippet>
- 	<content><![CDATA[<?=\$this->form->label('${1:field}'$2); ?>$0]]>
-	</content>
+	<content><![CDATA[<?=\$this->form->label('${1:field}'$2); ?>$0]]></content>
 	<tabTrigger>lbl</tabTrigger>
 	<description>Li3 Form Label</description>
 </snippet>

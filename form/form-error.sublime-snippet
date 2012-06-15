@@ -1,6 +1,5 @@
 <snippet>
- 	<content><![CDATA[<?=\$this->form->error(\$${1:field});?>]]>
-	</content>
+	<content><![CDATA[<?=\$this->form->error(\$${1:field});?>]]></content>
 	<tabTrigger>error</tabTrigger>
 	<description>Li3 Form Error</description>
 </snippet>

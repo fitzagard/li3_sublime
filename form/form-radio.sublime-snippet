@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<?=\$this->form->radio('${1:field}'$2); ?>$0]]></content>
+	<tabTrigger>radio</tabTrigger>
+	<description>Li3 Form Radio</description>
+</snippet>
