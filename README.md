@@ -10,9 +10,11 @@ Here is a simple package of useful code snippets to help enhance your RAD. So fa
 
 ##Installation
 
+For Mac:
 Open up Terminal:
 
-cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-git clone git@github.com:fitzagard/li3_sublime2.git
+`cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
+`git clone git@github.com:fitzagard/li3_sublime2.git`
 
-For Windows, place li3_sublime in C: > Users > 'Your Username' > AppData > Roaming > Sublime Text 2 > Packages
+For Windows:
+Clone li3_sublime in C: > Users > 'Your Username' > AppData > Roaming > Sublime Text 2 > Packages > 'li3_sublime'
