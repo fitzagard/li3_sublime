@@ -8,16 +8,21 @@ This is a package of useful code snippets to help during Rapid Application Devel
 
 3. General snippets are just that...general.
 
-##Installation
+## Installing
+### OSX
 
-For Mac:
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ git clone git@github.com:fitzagard/li3_sublime.git Lithium
 
-Open up Terminal:
+### Linux (Ubuntu like distros)
 
-`cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/`
+    $ cd ~/.config/sublime-text-2/Packages/
+    $ git clone git@github.com:fitzagard/li3_sublime.git Lithium
 
-`git clone git@github.com:fitzagard/li3_sublime.git`
+### Windows 7:
 
-For Windows:
+    Copy the directory to: "C:\Users\<username>\AppData\Roaming\Sublime Text 2\Packages"
 
-Clone li3_sublime in C: > Users > 'Your Username' > AppData > Roaming > Sublime Text 2 > Packages > 'li3_sublime'
+### Windows XP:
+
+    Copy the directory to: "C:\Documents and Settings\<yourusername>\Application Data\Sublime Text 2\Packages"
