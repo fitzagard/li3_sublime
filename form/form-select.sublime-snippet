@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<?=\$this->form->select('${1:field}'$2); ?>$0]]></content>
+	<content><![CDATA[<?=\$this->form->select(${1:'name'}, ${2:array('list')}, ${3:array('options')}); ?>]]></content>
 	<tabTrigger>sel</tabTrigger>
 	<description>Li3 Form Select</description>
 </snippet>
