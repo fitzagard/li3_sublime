@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<?=\$this->html->link(${1:array}, ${2:options}); ?>]]></content>
+	<content><![CDATA[<?=\$this->html->link(${1:'title'}, ${2:mixed}, ${3:array('options')}); ?>]]></content>
 	<tabTrigger>link</tabTrigger>
 	<description>HTML Link</description>
 </snippet>
