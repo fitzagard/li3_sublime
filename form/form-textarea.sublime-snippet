@@ -2,4 +2,5 @@
 	<content><![CDATA[<?=\$this->form->textarea('${1:field}'$2); ?>$0]]></content>
 	<tabTrigger>texta</tabTrigger>
 	<description>Li3 Form Text Area</description>
+	<scope>text.html</scope>
 </snippet>

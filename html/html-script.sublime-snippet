@@ -3,4 +3,5 @@
 	</content>
 	<tabTrigger>js</tabTrigger>
 	<description>Li3 HTML Script</description>
+	<scope>text.html</scope>
 </snippet>

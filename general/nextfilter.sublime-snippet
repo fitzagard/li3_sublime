@@ -3,4 +3,5 @@
 	</content>
 	<tabTrigger>next</tabTrigger>
 	<description>Li3 Next Filter</description>
+	<scope>source.php</scope>
 </snippet>

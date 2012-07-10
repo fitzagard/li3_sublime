@@ -5,4 +5,5 @@
 	</content>
 	<tabTrigger>func</tabTrigger>
 	<description>Method (func)</description>
+	<scope>source.php</scope>
 </snippet>

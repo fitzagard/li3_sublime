@@ -2,4 +2,5 @@
 	<content><![CDATA[<?=\$this->form->checkbox('${1:field}'$2); ?>$0]]></content>
 	<tabTrigger>checkbox</tabTrigger>
 	<description>Li3 Form Checkbox</description>
+	<scope>text.html</scope>
 </snippet>

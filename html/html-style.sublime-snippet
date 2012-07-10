@@ -3,4 +3,5 @@
 	</content>
 	<tabTrigger>style</tabTrigger>
 	<description>Li3 HTML Style</description>
+	<scope>text.html</scope>
 </snippet>

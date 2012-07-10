@@ -5,4 +5,5 @@
 	</content>
 	<tabTrigger>filter</tabTrigger>
 	<description>Li3 Filter</description>
+	<scope>source.php</scope>
 </snippet>

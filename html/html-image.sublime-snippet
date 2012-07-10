@@ -3,4 +3,5 @@
 	</content>
 	<tabTrigger>image</tabTrigger>
 	<description>Li3 HTML Image</description>
+	<scope>text.html</scope>
 </snippet>

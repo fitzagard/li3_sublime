@@ -5,4 +5,5 @@
 	</content>
 	<tabTrigger>init</tabTrigger>
 	<description>Li3 Static Initializer</description>
+	<scope>source.php</scope>
 </snippet>
